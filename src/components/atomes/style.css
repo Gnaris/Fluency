@@ -1,0 +1,53 @@
+/* Repeat */
+
+.link{
+    display: block;
+    padding: 1rem;
+
+    color: #F5F5F5;
+    font-size: 2rem;
+
+}
+
+.btn{
+    background: transparent;
+    border: none;
+}
+
+/* Authentificiation */
+
+.authentification{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    width: 100%;
+}
+.authentification-btn-login a{
+    border: 1px solid #F5F5F5;
+}
+.authentification-btn-register a{
+    background-color: #5E17EB;
+}
+
+/* FLUENCY */
+
+.fluency{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+    font-family: "Sarpanch", sans-serif;
+    font-size: 2rem;
+}
+
+/* NAVIGATION */
+
+nav{
+    grid-column-start: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7rem;
+}

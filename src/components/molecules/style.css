@@ -1,0 +1,10 @@
+header{
+    display: grid;
+    grid-template-columns: 25% 50% 25%;
+    min-height: 75px;
+
+    background-color: #041439;
+
+    color: #F5F5F5;
+    font-family: "Poppins", sans-serif;
+}
