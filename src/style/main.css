@@ -4,6 +4,10 @@ html{
     font-size: 62.5%;
 }
 
+:root{
+    --swiper-theme-color: #000
+}
+
 *{
     margin: 0;
     padding: 0;

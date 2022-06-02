@@ -1,3 +1,5 @@
+/* HEADER */
+
 header{
     display: grid;
     grid-template-columns: 25% 50% 25%;
@@ -7,7 +9,32 @@ header{
 
     color: #F5F5F5;
     font-family: "Poppins", sans-serif;
+}
 
-    border: solid 1px;
-    line-height: 15px;
+/* SWIPER SLIDE */
+
+.swiper2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.swiper2-container{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 7%;
+    width: 75%;
+}
+.swiper2-title{
+    font-family: "Sarpanch";
+    font-size: 40px;
+    color: #041439;
+}
+.swiper2-slide{
+    width: 100%;
+}
+.swiper2-product{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
