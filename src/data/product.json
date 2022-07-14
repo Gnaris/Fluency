@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "PBlack",
+      "name": "Dunk Low Black White",
+      "brand": "Nike",
+      "price": 165.0
+    },
+    {
+      "id": 2,
+      "img": "PGreen",
+      "name": "Dunk Low Black White",
+      "brand": "Nike",
+      "price": 165.0
+    },
+    {
+      "id": 3,
+      "img": "PKaki",
+      "name": "Dunk Low Black White",
+      "brand": "Nike",
+      "price": 165.0
+    },
+    {
+      "id": 4,
+      "img": "PLight",
+      "name": "Dunk Low Black White",
+      "brand": "Nike",
+      "price": 165.0
+    }
+  ]
+}
